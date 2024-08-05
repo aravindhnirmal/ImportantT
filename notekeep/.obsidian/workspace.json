@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "e5ab198649416179",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce7398de116cd33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb1f017c675c7ad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "69f0c89841cf2489",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4341aab11f8775a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9caeddd6523c4f8f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b02110872883ffb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5034b05853c9a051",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "60daaf59a378f748",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ea4c0d67e0d883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4076ef2bbdcaf460",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f56bd435974948c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57f0be459ae44581",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "2fb1f017c675c7ad",
+  "lastOpenFiles": [
+    "Logic/Boolean Logic.md",
+    "Introduction to Logical Reasoning.md",
+    "Important/README.md",
+    "Important",
+    "Logic/Blood Relation.md",
+    "Logic/1 . Logic.md",
+    "Logic/Introduction to Logical Reasoning.md",
+    "Logic/Input–Output.md",
+    "Logic/Developing the Skills.md",
+    "Logic/Logical Links.md",
+    "Logic/Sequencing and Arrangement.md",
+    "Logic/Series.md",
+    "Logic/Team Selection.md",
+    "Logic/Directions Decision Making.md",
+    "Logic/Syllogism.md",
+    "Logic/Cubes.md",
+    "Apitude/1. Apitude.md",
+    "Logic",
+    "Apitude/1. Number System/unit digit.md",
+    "Apitude/1. Number System/1 . Number System.md",
+    "Apitude/1. Number System/Upto n Terms.md",
+    "Apitude/1. Number System/Sum of Series.md",
+    "Apitude/1. Number System/Place and Face value.md",
+    "Apitude/1. Number System/Miscellaeous.md",
+    "Apitude/1. Number System/Finding Remember.md",
+    "Apitude/1. Number System/Finding a Remember.md",
+    "Apitude/1. Number System/Divisble rule.md",
+    "Apitude/1. Number System/Consective Numbers.md",
+    "Ap",
+    "Apitude/1. Number System",
+    "Apitude",
+    "GATE/Untitled",
+    "Untitled/Pasted image 20240804181650.png",
+    "Untitled/Pasted image 20240804181312.png",
+    "Pasted image 20240727153149.png",
+    "Engin. Maths/Calculus",
+    "Engin. Maths/Probab and Statics",
+    "Engin. Maths/Linear algebra",
+    "Engin. Maths",
+    "Keep Imports/Assets/f3ea7ccd-16e3-46e5-b62e-5d61f2ff5ed0.png",
+    "Keep Imports/Assets/ea8cdf4d-9bf2-47e1-9514-8e414afdac81.png",
+    "Keep Imports/Assets/d6b24e88-2bd4-4f85-a18d-50bac49b6437.png",
+    "Keep Imports/Assets/9e98d24d-d150-4955-b9d6-804fb5ae3f33.png",
+    "Keep Imports/Assets/3fba3051-5dde-443c-8a00-ed853efefc89.png",
+    "Keep Imports/Assets/2d68bc16-8fee-43c1-864d-30bcde793a64.png",
+    "Keep Imports/Assets/1c139e88-df67-4ebb-820c-828dde8ae0ac.png",
+    "Untitled.canvas"
+  ]
+}
