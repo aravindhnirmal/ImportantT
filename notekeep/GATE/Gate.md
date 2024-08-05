@@ -7,6 +7,9 @@
 7. [[ALGORITHMS]]
 8. [[TOC]]
 9. [[COMPLIER]]
-10. 
+10. [[DM]]
+11. [[1 . Logic]]
 
 [[PYQ]]
+
+[[1. Apitude]]

@@ -11,11 +11,64 @@
             "id": "2fb1f017c675c7ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/1. Apitude.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09697d851b05c4ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bf15b670ce0074f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GATE/Gate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49fbdc50463b6957",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engin. Maths/Engin.Maths.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7bbe06f9597d024",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Engin. Maths/Linear algebra/la.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -81,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Engin. Maths/Linear algebra/la.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Engin. Maths/Linear algebra/la.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,47 +185,20 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2fb1f017c675c7ad",
+  "active": "b7bbe06f9597d024",
   "lastOpenFiles": [
-    "Logic/Boolean Logic.md",
-    "Introduction to Logical Reasoning.md",
+    "Engin. Maths/Linear algebra/Linear Algebra.md",
+    "Engin. Maths/Linear algebra/la.md",
+    "GATE/Gate.md",
+    "Engin. Maths/Engin.Maths.md",
+    "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
+    "DM/1. Intro To DM/Intro to DM.md",
+    "DM/6 . FUNCTION",
     "Important/README.md",
-    "Important",
-    "Logic/Blood Relation.md",
-    "Logic/1 . Logic.md",
-    "Logic/Introduction to Logical Reasoning.md",
-    "Logic/Input–Output.md",
-    "Logic/Developing the Skills.md",
-    "Logic/Logical Links.md",
-    "Logic/Sequencing and Arrangement.md",
-    "Logic/Series.md",
-    "Logic/Team Selection.md",
-    "Logic/Directions Decision Making.md",
-    "Logic/Syllogism.md",
-    "Logic/Cubes.md",
+    "DM/DM.md",
+    "DM/3. Propositional Logic/PROPOSITIONAL LOGIC.md",
+    "GATE/Untitled.md",
     "Apitude/1. Apitude.md",
-    "Logic",
-    "Apitude/1. Number System/unit digit.md",
-    "Apitude/1. Number System/1 . Number System.md",
-    "Apitude/1. Number System/Upto n Terms.md",
-    "Apitude/1. Number System/Sum of Series.md",
-    "Apitude/1. Number System/Place and Face value.md",
-    "Apitude/1. Number System/Miscellaeous.md",
-    "Apitude/1. Number System/Finding Remember.md",
-    "Apitude/1. Number System/Finding a Remember.md",
-    "Apitude/1. Number System/Divisble rule.md",
-    "Apitude/1. Number System/Consective Numbers.md",
-    "Ap",
-    "Apitude/1. Number System",
-    "Apitude",
-    "GATE/Untitled",
-    "Untitled/Pasted image 20240804181650.png",
-    "Untitled/Pasted image 20240804181312.png",
-    "Pasted image 20240727153149.png",
-    "Engin. Maths/Calculus",
-    "Engin. Maths/Probab and Statics",
-    "Engin. Maths/Linear algebra",
-    "Engin. Maths",
     "Keep Imports/Assets/f3ea7ccd-16e3-46e5-b62e-5d61f2ff5ed0.png",
     "Keep Imports/Assets/ea8cdf4d-9bf2-47e1-9514-8e414afdac81.png",
     "Keep Imports/Assets/d6b24e88-2bd4-4f85-a18d-50bac49b6437.png",
@@ -178,6 +206,33 @@
     "Keep Imports/Assets/3fba3051-5dde-443c-8a00-ed853efefc89.png",
     "Keep Imports/Assets/2d68bc16-8fee-43c1-864d-30bcde793a64.png",
     "Keep Imports/Assets/1c139e88-df67-4ebb-820c-828dde8ae0ac.png",
+    "Keep Imports/Assets/18d325c1aa0.b2724d79e7f72a90.jpg",
+    "Keep Imports/Assets/18d325bef8e.93573173d0b0fd07.jpg",
+    "Keep Imports/Assets/18d0e0cbf1f.9bfc724374fe0ea7.jpg",
+    "Keep Imports/🤺🤺 connect the dots.md",
+    "Keep Imports/🤺🤺 connect the dots (2).md",
+    "Keep Imports/நான் சொன்னால் உனக்கு ஏன் கோபம் வர வேண்டும் பகுதி 1.md",
+    "Keep Imports/சீயக்காய் அறைப்பதற்கான பொருள்கள்.md",
+    "Keep Imports/who are more uses the periyar  brahmins.md",
+    "Keep Imports/while lex and yacc.md",
+    "Keep Imports/vismodo-Remote-Desktop_ Aren't you tired of intructing a person on a call to use their computer This project gives you a virtual touchpad and a field to type in!.md",
+    "Keep Imports/valuate the performance of machine learning models_.md",
+    "Keep Imports/use map in img.md",
+    "Keep Imports/unsupervised learning algorithms and models_.md",
+    "Keep Imports/university that accept the gate score.md",
+    "Keep Imports/two sum.md",
+    "Keep Imports/tree types.md",
+    "Keep Imports/topological sort.md",
+    "Keep Imports/top brokerage.md",
+    "Keep Imports/Assets",
+    "Keep Imports",
+    "Important",
+    "Logic",
+    "Ap",
+    "Apitude/1. Number System",
+    "Apitude",
+    "GATE/Untitled",
+    "Engin. Maths/Calculus",
     "Untitled.canvas"
   ]
 }
