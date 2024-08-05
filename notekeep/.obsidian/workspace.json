@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engin. Maths/Linear algebra/la.md",
+                "file": "Engin. Maths/Probab and Statics/Probab and Stat.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engin. Maths/Linear algebra/la.md",
+                "file": "Engin. Maths/Probab and Statics/Probab and Stat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engin. Maths/Linear algebra/la.md",
+                "file": "Engin. Maths/Probab and Statics/Probab and Stat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,10 +185,11 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "b7bbe06f9597d024",
+  "active": "9caeddd6523c4f8f",
   "lastOpenFiles": [
-    "Engin. Maths/Linear algebra/Linear Algebra.md",
+    "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
     "Engin. Maths/Linear algebra/la.md",
+    "Engin. Maths/Linear algebra/Linear Algebra.md",
     "GATE/Gate.md",
     "Engin. Maths/Engin.Maths.md",
     "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
@@ -223,7 +224,6 @@
     "Keep Imports/two sum.md",
     "Keep Imports/tree types.md",
     "Keep Imports/topological sort.md",
-    "Keep Imports/top brokerage.md",
     "Keep Imports/Assets",
     "Keep Imports",
     "Important",
