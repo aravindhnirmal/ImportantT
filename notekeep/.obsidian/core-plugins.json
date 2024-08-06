@@ -9,11 +9,15 @@
   "tag-pane",
   "page-preview",
   "daily-notes",
+  "templates",
   "note-composer",
   "editor-status",
   "bookmarks",
   "markdown-importer",
+  "zk-prefixer",
   "random-note",
+  "outline",
   "word-count",
+  "workspaces",
   "file-recovery"
 ]

@@ -15,6 +15,7 @@
 	1. Referencing 
 	2. Referenced Table
 
+
 RESOURCES [GO CLASS](https://t.me/c/1708816047/630)
 BOOKS 
 1. DBMS_BY_RAGHU_RAMAKRISHNAN
