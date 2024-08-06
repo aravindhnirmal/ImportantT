@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fb1f017c675c7ad",
+            "id": "562a1f18c9ef9e85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/1. Apitude.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "23e999c082dbd09c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apitude/1. Number System/1 . Number System.md",
+                "file": "Apitude/Simple Interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/1. Number System/Sum of Series.md",
+                "file": "2024-08-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,11 +83,9 @@
             "id": "09697d851b05c4ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
-                "mode": "source",
-                "source": false
+                "file": "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf"
               }
             }
           },
@@ -128,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -157,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "simpl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apitude/1. Number System/Sum of Series.md",
+                "file": "Apitude/1. Number System/Place and Face value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apitude/1. Number System/Sum of Series.md",
+                "file": "Apitude/1. Number System/Place and Face value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apitude/1. Number System/Sum of Series.md"
+                "file": "Apitude/1. Number System/Place and Face value.md"
               }
             }
           },
@@ -264,20 +250,32 @@
       "templates:Insert template": false,
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-full-calendar:Open Full Calendar": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "bb8e233fbdef2af5",
+  "active": "ab7e5ee127710520",
   "lastOpenFiles": [
-    "Apitude/1. Number System/unit digit.md",
-    "Apitude/1. Number System/1 . Number System.md",
-    "Apitude/1. Number System/Sum of Series.md",
     "Apitude/1. Number System/Finding a Remember.md",
-    "Apitude/1. Number System/Place and Face value.md",
-    "Apitude/1. Number System/Upto n Terms.md",
-    "Apitude/1. Apitude.md",
-    "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
     "2024-08-06.md",
+    "Apitude/1. Number System/unit digit.md",
+    "Apitude/Simple Interest.md",
+    "Apitude/1. Apitude.md",
+    "Apitude/1. Number System/1 . Number System.md",
+    "Apitude/REVISION checklist FOR APITUDE.md",
+    "Pasted image 20240806181309.png",
+    "Pasted image 20240806181129.png",
+    "Pasted image 20240806180953.png",
+    "Pasted image 20240806180811.png",
+    "Pasted image 20240806180619.png",
+    "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
+    "Apitude/Races and Games of Skill.md",
+    "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
+    "Apitude/Average.md",
+    "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
+    "Apitude/1. Number System/Upto n Terms.md",
+    "Apitude/1. Number System/Place and Face value.md",
+    "Apitude/1. Number System/Sum of Series.md",
     "randomness.md",
     "2024-08-05.md",
     "202408052015.md",
@@ -287,27 +285,16 @@
     "Untitled/usage of the obsidian with  git and github app.md",
     "Engin. Maths/Engin.Maths.md",
     "Engin. Maths/Probab and Statics/Probab and Stat.md",
-    "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
-    "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
     "Engin. Maths/Linear algebra/la.md",
     "Engin. Maths/Linear algebra/Linear Algebra.md",
     "DM/1. Intro To DM/Intro to DM.md",
     "DM/6 . FUNCTION",
     "Important/README.md",
-    "DM/DM.md",
-    "DM/3. Propositional Logic/PROPOSITIONAL LOGIC.md",
-    "GATE/Untitled.md",
     "Keep Imports/Assets/f3ea7ccd-16e3-46e5-b62e-5d61f2ff5ed0.png",
     "Keep Imports/Assets/ea8cdf4d-9bf2-47e1-9514-8e414afdac81.png",
     "Keep Imports/Assets/d6b24e88-2bd4-4f85-a18d-50bac49b6437.png",
     "Keep Imports/Assets/9e98d24d-d150-4955-b9d6-804fb5ae3f33.png",
     "Keep Imports/Assets/3fba3051-5dde-443c-8a00-ed853efefc89.png",
-    "Keep Imports/Assets/2d68bc16-8fee-43c1-864d-30bcde793a64.png",
-    "Keep Imports/Assets/1c139e88-df67-4ebb-820c-828dde8ae0ac.png",
-    "Keep Imports/Assets/18d325c1aa0.b2724d79e7f72a90.jpg",
-    "Keep Imports/Assets/18d325bef8e.93573173d0b0fd07.jpg",
-    "Keep Imports/Assets/18d0e0cbf1f.9bfc724374fe0ea7.jpg",
-    "Keep Imports/🤺🤺 connect the dots.md",
     "Keep Imports/Assets",
     "Keep Imports",
     "Important",
