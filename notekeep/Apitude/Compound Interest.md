@@ -1,4 +1,4 @@
-## ONE Formula thaan
+## two  Formula thaan
 
 ## question in basic
 1. ![[Pasted image 20240806182900.png]]
@@ -22,7 +22,7 @@
 1. ![[Pasted image 20240806184846.png]]
 2. ![[Pasted image 20240806184946.png]]
 
-## find its a half / quartelry yearly compounded by our think without given of half or qua in the question
+## find its a half / quarterly yearly compounded by our think without given of half or qua in the question
 ### formula
 by the given time 
 	![[Pasted image 20240806185309.png]]
@@ -38,7 +38,31 @@ by the given time
 2.      ![[Pasted image 20240806185700.png]]
 
 
-## poplation in the compunded interest
- ### two formula      
+## population in the compounded interest
+ ### two formula      increase and decrease la symbol change aagum  in after n year formula 
       ![[Pasted image 20240806185917.png]]
 
+ 1. future formula 
+		1. 
+			 ![[Pasted image 20240806190454.png]]\
+		2. increase and decrease la symbol change panaunm
+			![[Pasted image 20240806190706.png]]
+		
+	3. n years ago formula example 
+		1.  ![[Pasted image 20240806191011.png]]
+	4.  both in the one sum every year is changing 
+		1. ![[Pasted image 20240806191233.png]]
+		
+			
+
+## money and divide the equations 
+1. 
+		 ![[Pasted image 20240806191342.png]]
+2. 
+		1. ![[Pasted image 20240806191619.png]]
+
+3. 
+		1. ![[Pasted image 20240806191806.png]]
+4. 
+		1. ![[Pasted image 20240806191939.png]]
+5. 
