@@ -20,6 +20,78 @@
             }
           },
           {
+            "id": "23e999c082dbd09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/1. Number System/1 . Number System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff90b4ef68817f10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/1. Number System/unit digit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8e233fbdef2af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/1. Number System/Sum of Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad88b305000510b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/1. Number System/Finding a Remember.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab7e5ee127710520",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/1. Number System/Place and Face value.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e72d4f03651642a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/1. Number System/Upto n Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "09697d851b05c4ba",
             "type": "leaf",
             "state": {
@@ -122,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "randomness.md",
+                "file": "Apitude/1. Number System/Sum of Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "randomness.md",
+                "file": "Apitude/1. Number System/Sum of Series.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "randomness.md"
+                "file": "Apitude/1. Number System/Sum of Series.md"
               }
             }
           },
@@ -195,14 +267,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b97b078378fabfab",
+  "active": "bb8e233fbdef2af5",
   "lastOpenFiles": [
+    "Apitude/1. Number System/unit digit.md",
+    "Apitude/1. Number System/1 . Number System.md",
+    "Apitude/1. Number System/Sum of Series.md",
+    "Apitude/1. Number System/Finding a Remember.md",
+    "Apitude/1. Number System/Place and Face value.md",
+    "Apitude/1. Number System/Upto n Terms.md",
+    "Apitude/1. Apitude.md",
     "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
     "2024-08-06.md",
+    "randomness.md",
     "2024-08-05.md",
     "202408052015.md",
     "GATE/DBMS/DBMS.md",
-    "randomness.md",
     "Untitled 1.md",
     "GATE/Gate.md",
     "Untitled/usage of the obsidian with  git and github app.md",
@@ -218,7 +297,6 @@
     "DM/DM.md",
     "DM/3. Propositional Logic/PROPOSITIONAL LOGIC.md",
     "GATE/Untitled.md",
-    "Apitude/1. Apitude.md",
     "Keep Imports/Assets/f3ea7ccd-16e3-46e5-b62e-5d61f2ff5ed0.png",
     "Keep Imports/Assets/ea8cdf4d-9bf2-47e1-9514-8e414afdac81.png",
     "Keep Imports/Assets/d6b24e88-2bd4-4f85-a18d-50bac49b6437.png",
@@ -230,12 +308,6 @@
     "Keep Imports/Assets/18d325bef8e.93573173d0b0fd07.jpg",
     "Keep Imports/Assets/18d0e0cbf1f.9bfc724374fe0ea7.jpg",
     "Keep Imports/🤺🤺 connect the dots.md",
-    "Keep Imports/🤺🤺 connect the dots (2).md",
-    "Keep Imports/நான் சொன்னால் உனக்கு ஏன் கோபம் வர வேண்டும் பகுதி 1.md",
-    "Keep Imports/சீயக்காய் அறைப்பதற்கான பொருள்கள்.md",
-    "Keep Imports/who are more uses the periyar  brahmins.md",
-    "Keep Imports/while lex and yacc.md",
-    "Keep Imports/vismodo-Remote-Desktop_ Aren't you tired of intructing a person on a call to use their computer This project gives you a virtual touchpad and a field to type in!.md",
     "Keep Imports/Assets",
     "Keep Imports",
     "Important",
