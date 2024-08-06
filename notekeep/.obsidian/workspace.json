@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/1. Number System/Place and Face value.md",
+                "file": "Apitude/Compound Interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "simpl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "60daaf59a378f748",
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apitude/1. Number System/Place and Face value.md",
+                "file": "Apitude/Compound Interest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apitude/1. Number System/Place and Face value.md",
+                "file": "Apitude/Compound Interest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apitude/1. Number System/Place and Face value.md"
+                "file": "Apitude/Compound Interest.md"
               }
             }
           },
@@ -256,25 +257,31 @@
   },
   "active": "ab7e5ee127710520",
   "lastOpenFiles": [
-    "Apitude/1. Number System/Finding a Remember.md",
+    "Pasted image 20240806185917.png",
+    "Pasted image 20240806185743.png",
+    "Pasted image 20240806185700.png",
+    "Pasted image 20240806185421.png",
+    "Pasted image 20240806185309.png",
+    "Pasted image 20240806184946.png",
+    "Pasted image 20240806184846.png",
+    "Pasted image 20240806184800.png",
+    "Pasted image 20240806184605.png",
+    "Pasted image 20240806184200.png",
+    "Pasted image 20240806184014.png",
+    "Apitude/1. Apitude.md",
     "2024-08-06.md",
+    "Apitude/1. Number System/Place and Face value.md",
+    "Apitude/1. Number System/Finding a Remember.md",
     "Apitude/1. Number System/unit digit.md",
     "Apitude/Simple Interest.md",
-    "Apitude/1. Apitude.md",
     "Apitude/1. Number System/1 . Number System.md",
     "Apitude/REVISION checklist FOR APITUDE.md",
-    "Pasted image 20240806181309.png",
-    "Pasted image 20240806181129.png",
-    "Pasted image 20240806180953.png",
-    "Pasted image 20240806180811.png",
-    "Pasted image 20240806180619.png",
     "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
     "Apitude/Races and Games of Skill.md",
     "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
     "Apitude/Average.md",
     "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
     "Apitude/1. Number System/Upto n Terms.md",
-    "Apitude/1. Number System/Place and Face value.md",
     "Apitude/1. Number System/Sum of Series.md",
     "randomness.md",
     "2024-08-05.md",
@@ -289,12 +296,6 @@
     "Engin. Maths/Linear algebra/Linear Algebra.md",
     "DM/1. Intro To DM/Intro to DM.md",
     "DM/6 . FUNCTION",
-    "Important/README.md",
-    "Keep Imports/Assets/f3ea7ccd-16e3-46e5-b62e-5d61f2ff5ed0.png",
-    "Keep Imports/Assets/ea8cdf4d-9bf2-47e1-9514-8e414afdac81.png",
-    "Keep Imports/Assets/d6b24e88-2bd4-4f85-a18d-50bac49b6437.png",
-    "Keep Imports/Assets/9e98d24d-d150-4955-b9d6-804fb5ae3f33.png",
-    "Keep Imports/Assets/3fba3051-5dde-443c-8a00-ed853efefc89.png",
     "Keep Imports/Assets",
     "Keep Imports",
     "Important",
