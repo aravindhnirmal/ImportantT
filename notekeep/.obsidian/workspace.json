@@ -20,31 +20,43 @@
             }
           },
           {
-            "id": "aa788b09e6bc15a9",
+            "id": "fd996d319d94cce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-05.md",
+                "file": "JOURNAL/DAILY/2024-08-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "23aa971414e247ea",
+            "id": "fce49fa902429eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-07.md",
+                "file": "JOURNAL/journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc2305a83f82816f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOURNAL/MONTHLY NOTES/A ON 08 AUG MONTH TO JAN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "60daaf59a378f748",
@@ -111,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-07.md",
+                "file": "JOURNAL/DAILY/2024-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,18 +139,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-07.md",
+                "file": "JOURNAL/DAILY/2024-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "f24daaede018b49e",
-            "type": "leaf",
-            "state": {
-              "type": "journal-calendar",
-              "state": {}
             }
           },
           {
@@ -148,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-07.md"
+                "file": "JOURNAL/DAILY/2024-08-07.md"
               }
             }
           },
@@ -164,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,15 +186,41 @@
       "zk-prefixer:Create new unique note": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "23aa971414e247ea",
+  "active": "fd996d319d94cce8",
   "lastOpenFiles": [
-    "2024-08-05.md",
-    "2024-08-07.md",
-    "Untitled.md",
     "Apitude/Average.md",
+    "JOURNAL/MONTHLY NOTES/A ON 08 AUG MONTH TO JAN.md",
+    "JOURNAL/MONTHLY NOTES/JAN.md",
+    "JOURNAL/MONTHLY NOTES/DEC.md",
+    "JOURNAL/MONTHLY NOTES/NOV.md",
+    "JOURNAL/MONTHLY NOTES/OCT.md",
+    "JOURNAL/MONTHLY NOTES/SEP.md",
+    "AUG.md",
+    "JOURNAL/IMPORTANT/Plannns in the date of 07 08 2024.md",
+    "JOURNAL/WEEK NOTES/21- 08.md",
+    "JOURNAL/WEEK NOTES/WEEK NOTES FROM 07 -08.md",
+    "JOURNAL/WEEK NOTES/28 - 08.md",
+    "JOURNAL/WEEK NOTES/14- 08.md",
+    "JOURNAL/journal.md",
+    "14 /14-08.md",
+    "JOURNAL/DAILY/2024-08-07.md",
+    "14 ",
+    "JOURNAL/DAILY/2024-08-06.md",
+    "JOURNAL/DAILY/2024-08-05.md",
+    "JOURNAL/DAILY",
+    "JOURNAL/IMPORTANT",
+    "Mind Map for Apitude.md",
+    "JOURNAL",
+    "07-08-24.md",
+    "JOURNAL/MONTHLY NOTES",
+    "JOURNAL/WEEK NOTES",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled.md",
     "Pasted image 20240807150754.png",
     "Pasted image 20240807150554.png",
     "Pasted image 20240807150353.png",
@@ -203,37 +232,12 @@
     "Pasted image 20240807145645.png",
     "Pasted image 20240807145552.png",
     "Apitude/1. Apitude.md",
-    "2024-08-06.md",
-    "journal.md",
     "Apitude/REVISION checklist FOR APITUDE.md",
     "202408052015.md",
-    "Mind Map for Apitude.md",
-    "Apitude/Time and Distance.md",
-    "Apitude/Surds and Indices.md",
-    "Apitude/Square Roots and Cube Roots.md",
-    "Apitude/Stocks and Shares.md",
-    "Apitude/Simplification.md",
-    "Apitude/Simple Interest.md",
-    "Apitude/Percentage.md",
-    "Apitude/Partnership.md",
-    "Apitude/Odd Man Out and Series.md",
-    "Apitude/Logarithms.md",
-    "Apitude/Heights and Distances.md",
-    "Apitude/H.C.F. and L.C.M. of Numbers.md",
-    "Apitude/Banker’s Discount.md",
-    "Apitude/Area.md",
-    "Apitude/1. Number System/unit digit.md",
-    "Apitude/1. Number System/Finding a Remember.md",
     "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
     "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
     "DM/6 . FUNCTION",
     "Keep Imports/Assets",
-    "Keep Imports",
-    "Important",
-    "Logic",
-    "Ap",
-    "Apitude/1. Number System",
-    "Apitude",
     "Untitled.canvas"
   ]
 }

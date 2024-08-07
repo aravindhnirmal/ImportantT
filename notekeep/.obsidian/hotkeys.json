@@ -131,14 +131,6 @@
       "key": "P"
     }
   ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
   "random-note": [
     {
       "modifiers": [
@@ -242,7 +234,15 @@
       "key": "F"
     }
   ],
-  "editor:fold-less": [
+  "journals:journal:calendar:open-next-day": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "daily-notes": [
     {
       "modifiers": [
         "Alt"

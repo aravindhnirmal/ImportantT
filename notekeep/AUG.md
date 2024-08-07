@@ -1,0 +1,5 @@
+- [ ] EM COMPLETED
+- [ ] DLD
+- [ ] DBMS  3/4
+- [ ] APITUDE 25%
+- [ ] REASONING 25% 
