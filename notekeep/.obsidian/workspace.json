@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "60daaf59a378f748",
@@ -169,7 +170,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -193,25 +195,26 @@
   },
   "active": "562a1f18c9ef9e85",
   "lastOpenFiles": [
-    "Pasted image 20240807134155.png",
-    "Pasted image 20240807134104.png",
-    "Pasted image 20240807134015.png",
-    "Pasted image 20240807133946.png",
+    "Pasted image 20240807150754.png",
+    "Pasted image 20240807150554.png",
+    "Pasted image 20240807150353.png",
+    "Pasted image 20240807150207.png",
+    "Pasted image 20240807150033.png",
+    "Pasted image 20240807145922.png",
     "2024-08-05.md",
-    "2024-08-06.md",
+    "Apitude/Average.md",
+    "Pasted image 20240807145817.png",
+    "Pasted image 20240807145746.png",
+    "Pasted image 20240807145645.png",
+    "Pasted image 20240807145552.png",
+    "Pasted image 20240807145409.png",
+    "Apitude/1. Apitude.md",
     "2024-08-07.md",
+    "2024-08-06.md",
     "journal.md",
     "Apitude/REVISION checklist FOR APITUDE.md",
-    "Apitude/Average.md",
-    "Pasted image 20240807133836.png",
     "202408052015.md",
     "Mind Map for Apitude.md",
-    "Apitude/1. Apitude.md",
-    "Pasted image 20240807132857.png",
-    "Pasted image 20240807132831.png",
-    "Pasted image 20240807132742.png",
-    "Pasted image 20240807132657.png",
-    "Pasted image 20240807132600.png",
     "Apitude/Time and Distance.md",
     "Apitude/Surds and Indices.md",
     "Apitude/Square Roots and Cube Roots.md",
@@ -229,7 +232,6 @@
     "Apitude/1. Number System/unit digit.md",
     "Apitude/1. Number System/Finding a Remember.md",
     "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
-    "Pasted image 20240806191939.png",
     "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
     "DM/6 . FUNCTION",
     "Keep Imports/Assets",
