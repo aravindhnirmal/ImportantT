@@ -13,50 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/Simple Interest.md",
+                "file": "Apitude/Average.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff90b4ef68817f10",
+            "id": "aa788b09e6bc15a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/1. Number System/unit digit.md",
+                "file": "Apitude/REVISION checklist FOR APITUDE.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bb8e233fbdef2af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-08-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad88b305000510b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apitude/1. Number System/Finding a Remember.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab7e5ee127710520",
+            "id": "23aa971414e247ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,31 +44,15 @@
             }
           },
           {
-            "id": "6e72d4f03651642a",
+            "id": "a7815de8c1348470",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apitude/1. Number System/Upto n Terms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "195eae313f6194a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-08-07.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "60daaf59a378f748",
@@ -159,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2024-08-07.md"
-              }
+              "state": {}
             }
           },
           {
@@ -233,46 +188,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab7e5ee127710520",
+  "active": "a7815de8c1348470",
   "lastOpenFiles": [
-    "Apitude/1. Number System/Finding a Remember.md",
+    "Apitude/Average.md",
     "2024-08-07.md",
-    "Apitude/1. Number System/Upto n Terms.md",
-    "Plannns in the date of 07 08 2024.md",
-    "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
+    "202408052015.md",
     "2024-08-06.md",
-    "randomness.md",
-    "Apitude/Compound Interest.md",
+    "2024-08-05.md",
+    "journal.md",
+    "Apitude/REVISION checklist FOR APITUDE.md",
+    "Mind Map for Apitude.md",
+    "Apitude/1. Apitude.md",
+    "Pasted image 20240807132857.png",
+    "Pasted image 20240807132831.png",
+    "Pasted image 20240807132742.png",
+    "Pasted image 20240807132657.png",
+    "Pasted image 20240807132600.png",
+    "Apitude/Time and Distance.md",
+    "Apitude/Surds and Indices.md",
+    "Apitude/Square Roots and Cube Roots.md",
+    "Apitude/Stocks and Shares.md",
+    "Apitude/Simplification.md",
+    "Apitude/Simple Interest.md",
+    "Apitude/Percentage.md",
+    "Apitude/Partnership.md",
+    "Apitude/Odd Man Out and Series.md",
+    "Apitude/Logarithms.md",
+    "Apitude/Heights and Distances.md",
+    "Apitude/H.C.F. and L.C.M. of Numbers.md",
+    "Apitude/Banker’s Discount.md",
+    "Apitude/Area.md",
+    "Apitude/1. Number System/unit digit.md",
+    "Apitude/1. Number System/Finding a Remember.md",
+    "Apitude/1. Number System/Upto n Terms.md",
+    "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
     "Pasted image 20240806191939.png",
     "Pasted image 20240806191806.png",
     "Pasted image 20240806191619.png",
     "Pasted image 20240806191342.png",
     "Pasted image 20240806191233.png",
-    "Pasted image 20240806191011.png",
-    "Pasted image 20240806190706.png",
-    "Pasted image 20240806190454.png",
-    "Pasted image 20240806185917.png",
-    "Pasted image 20240806185743.png",
-    "Apitude/1. Apitude.md",
-    "Apitude/1. Number System/Place and Face value.md",
-    "Apitude/1. Number System/unit digit.md",
-    "Apitude/Simple Interest.md",
-    "Apitude/1. Number System/1 . Number System.md",
-    "Apitude/REVISION checklist FOR APITUDE.md",
-    "Apitude/Races and Games of Skill.md",
     "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
-    "Apitude/Average.md",
-    "DM/2. Fundamental of CS/FUNDAMENTAL OF CS.md",
-    "Apitude/1. Number System/Sum of Series.md",
-    "2024-08-05.md",
-    "202408052015.md",
-    "GATE/DBMS/DBMS.md",
-    "Untitled 1.md",
-    "GATE/Gate.md",
-    "Untitled/usage of the obsidian with  git and github app.md",
-    "Engin. Maths/Engin.Maths.md",
-    "Engin. Maths/Probab and Statics/Probab and Stat.md",
-    "Engin. Maths/Linear algebra/la.md",
     "DM/6 . FUNCTION",
     "Keep Imports/Assets",
     "Keep Imports",
