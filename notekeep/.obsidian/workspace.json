@@ -85,14 +85,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plannns in the date of 07 08 2024.md",
+                "file": "2024-08-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plannns in the date of 07 08 2024.md",
+                "file": "2024-08-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plannns in the date of 07 08 2024.md",
+                "file": "2024-08-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plannns in the date of 07 08 2024.md"
+                "file": "2024-08-07.md"
               }
             }
           },
@@ -233,14 +233,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "195eae313f6194a1",
+  "active": "ab7e5ee127710520",
   "lastOpenFiles": [
+    "Apitude/1. Number System/Finding a Remember.md",
+    "2024-08-07.md",
     "Apitude/1. Number System/Upto n Terms.md",
     "Plannns in the date of 07 08 2024.md",
     "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
     "2024-08-06.md",
     "randomness.md",
-    "2024-08-07.md",
     "Apitude/Compound Interest.md",
     "Pasted image 20240806191939.png",
     "Pasted image 20240806191806.png",
@@ -254,7 +255,6 @@
     "Pasted image 20240806185743.png",
     "Apitude/1. Apitude.md",
     "Apitude/1. Number System/Place and Face value.md",
-    "Apitude/1. Number System/Finding a Remember.md",
     "Apitude/1. Number System/unit digit.md",
     "Apitude/Simple Interest.md",
     "Apitude/1. Number System/1 . Number System.md",
