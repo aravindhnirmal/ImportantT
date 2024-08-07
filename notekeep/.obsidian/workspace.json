@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/REVISION checklist FOR APITUDE.md",
+                "file": "2024-08-05.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Apitude/Average.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Apitude/Average.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Apitude/Average.md"
+              }
             }
           },
           {
@@ -188,15 +191,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7815de8c1348470",
+  "active": "562a1f18c9ef9e85",
   "lastOpenFiles": [
-    "Apitude/Average.md",
-    "2024-08-07.md",
-    "202408052015.md",
-    "2024-08-06.md",
+    "Pasted image 20240807134155.png",
+    "Pasted image 20240807134104.png",
+    "Pasted image 20240807134015.png",
+    "Pasted image 20240807133946.png",
     "2024-08-05.md",
+    "2024-08-06.md",
+    "2024-08-07.md",
     "journal.md",
     "Apitude/REVISION checklist FOR APITUDE.md",
+    "Apitude/Average.md",
+    "Pasted image 20240807133836.png",
+    "202408052015.md",
     "Mind Map for Apitude.md",
     "Apitude/1. Apitude.md",
     "Pasted image 20240807132857.png",
@@ -220,13 +228,8 @@
     "Apitude/Area.md",
     "Apitude/1. Number System/unit digit.md",
     "Apitude/1. Number System/Finding a Remember.md",
-    "Apitude/1. Number System/Upto n Terms.md",
     "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
     "Pasted image 20240806191939.png",
-    "Pasted image 20240806191806.png",
-    "Pasted image 20240806191619.png",
-    "Pasted image 20240806191342.png",
-    "Pasted image 20240806191233.png",
     "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
     "DM/6 . FUNCTION",
     "Keep Imports/Assets",
