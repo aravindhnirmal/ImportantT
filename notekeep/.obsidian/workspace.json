@@ -51,7 +51,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apitude/Average.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apitude/Average.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Apitude/Average.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,23 +190,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "562a1f18c9ef9e85",
+  "active": "a7815de8c1348470",
   "lastOpenFiles": [
+    "2024-08-07.md",
+    "2024-08-05.md",
+    "Apitude/Average.md",
     "Pasted image 20240807150754.png",
     "Pasted image 20240807150554.png",
     "Pasted image 20240807150353.png",
     "Pasted image 20240807150207.png",
     "Pasted image 20240807150033.png",
     "Pasted image 20240807145922.png",
-    "2024-08-05.md",
-    "Apitude/Average.md",
     "Pasted image 20240807145817.png",
     "Pasted image 20240807145746.png",
     "Pasted image 20240807145645.png",
     "Pasted image 20240807145552.png",
-    "Pasted image 20240807145409.png",
     "Apitude/1. Apitude.md",
-    "2024-08-07.md",
     "2024-08-06.md",
     "journal.md",
     "Apitude/REVISION checklist FOR APITUDE.md",
