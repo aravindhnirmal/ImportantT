@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AUG.md",
+                "file": "Logic/Blood Relation.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AUG.md",
+                "file": "Logic/Blood Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AUG.md",
+                "file": "Logic/Blood Relation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AUG.md"
+                "file": "Logic/Blood Relation.md"
               }
             }
           },
@@ -212,14 +212,26 @@
   },
   "active": "cc2305a83f82816f",
   "lastOpenFiles": [
+    "Pasted image 20240808131904.png",
+    "Pasted image 20240808131559.png",
+    "Pasted image 20240808131416.png",
+    "Pasted image 20240808131236.png",
+    "Pasted image 20240808130946.png",
+    "Pasted image 20240808130909.png",
+    "Pasted image 20240808130803.png",
+    "Pasted image 20240808130623.png",
+    "Pasted image 20240808130519.png",
+    "Pasted image 20240808130415.png",
+    "Pasted image 20240808130258.png",
+    "Logic/1 . Logic.md",
     "2024-08-08.md",
+    "AUG.md",
     "JOURNAL/DAILY/2024-08-05.md",
     "JOURNAL/DAILY/2024-08-06.md",
     "08-08-2024.md",
     "DM/8 .COMBINATORICS/COMBINATORS.md",
     "DM/DM.md",
     "DM/7. GRAPH THEORY/GRAPH THEORY.md",
-    "AUG.md",
     "JOURNAL/MONTHLY NOTES/A ON 08 AUG MONTH TO JAN.md",
     "DM/6 . FUNCTION/FUNCTION.md",
     "JOURNAL/WEEK NOTES/14- 08.md",
@@ -239,21 +251,9 @@
     "14 ",
     "JOURNAL/DAILY",
     "JOURNAL/IMPORTANT",
-    "Mind Map for Apitude.md",
     "JOURNAL",
-    "07-08-24.md",
     "JOURNAL/MONTHLY NOTES",
     "JOURNAL/WEEK NOTES",
-    "Pasted image 20240807150754.png",
-    "Pasted image 20240807150554.png",
-    "Pasted image 20240807150353.png",
-    "Pasted image 20240807150207.png",
-    "Pasted image 20240807150033.png",
-    "Pasted image 20240807145922.png",
-    "Pasted image 20240807145817.png",
-    "Pasted image 20240807145746.png",
-    "Pasted image 20240807145645.png",
-    "Pasted image 20240807145552.png",
     "Apitude/R_S_Aggarwal_Quantitative_Aptitude_for_Competitive_Examinations.pdf",
     "Logic/Logical_Reasoning_and_Data_Interpretation_for_the_CAT_by_Nishit.pdf",
     "DM/6 . FUNCTION",
