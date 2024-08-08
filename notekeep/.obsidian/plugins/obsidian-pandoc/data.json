@@ -9,7 +9,7 @@
   "highDPIDiagrams": true,
   "pandoc": "/usr/bin/pandoc",
   "pdflatex": "/usr/bin/xelatex",
-  "outputFolder": "/home/my/Downloads/",
+  "outputFolder": "/home/my/Documents/notekeep/pdf/",
   "extraArguments": "--pdf-engine=xelatex\n",
   "exportFrom": "html"
 }

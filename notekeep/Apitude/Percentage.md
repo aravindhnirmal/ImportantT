@@ -1,5 +1,27 @@
 ## intro 
-1. 
+
+- https://wwhttps://www.youtube.com/watch?v=SKQGxLRSuPAw.youtube.com/watch?v=SKQGxLRSuPA
+- https://catking.in/blood-relation-basic-concept-for-cat-exam
+- https://www.apti4all.com/cat-mba/topic-wise-preparation/lrdi/CAT/lr-blood-relation
+- https://cracku.in/blog/blood-relations-questions-for-cat/
+- https://collegedunia.com/news/e-242-cat-lr-blood-relations-quiz
+- https://cetking.com/6-most-difficult-blood-relationship-questions/
+- https://www.sanfoundry.com/logical-reasoning-questions-answers-blood-relation/
+- https://prepinsta.com/blood-relation/questions/
+- https://talentbattle.in/practice-logical-reasoning-questions/blood-relation
+- https://www.hitbullseye.com/Blood-Relation-Questions.php
+- https://www.geeksforgeeks.org/blood-relation-reasoning/
+- https://www.sawaal.com/aptitude-reasoning/verbal-reasoning-mental-ability/blood-relations-questions-and-answers.html
+- https://www.indiabix.com/verbal-reasoning/blood-relation-test/
+- 
+
+
+
+
+
+
+
+1.  [[2024-08-08]]
 	1. ![[Pasted image 20240808142659.png]]  formula basics just memory it 
 	2. 
 		1. ![[Pasted image 20240808143010.png]]
@@ -76,5 +98,36 @@
 	1. ![[Pasted image 20240808211915.png]]
 3.  find the majority
 	1. ![[Pasted image 20240808212052.png]]
-4.  by the  
+4.  by the  majority given , to find out the winning canditategot by winning canditate so we use 60%
 	1. ![[Pasted image 20240808212156.png]]
+5. 
+	1. ![[Pasted image 20240808213033.png]]
+
+### invalid votes
+some are invalid ,base is not change 
+1. 
+	1. ![[Pasted image 20240808213423.png]]
+2. 
+	1. ![[Pasted image 20240808213734.png]]
+3. ![[Pasted image 20240808213958.png]]
+
+### based on marks
+base 100 marks\
+1. 
+	1. ![[Pasted image 20240808214230.png]]
+2. 
+	1. ![[Pasted image 20240808214459.png]]
+3. 
+	1. ![[Pasted image 20240808214616.png]]
+4. 
+	1. ![[Pasted image 20240808214725.png]]
+5. 
+	1. ![[Pasted image 20240808214925.png]]
+6. 
+	1. ![[Pasted image 20240808215031.png]]
+7. 
+	1. ![[Pasted image 20240808215225.png]]
+8. important to sum 
+	1. ![[Pasted image 20240808215457.png]]
+9. 
+	1. ![[Pasted image 20240808215610.png]]

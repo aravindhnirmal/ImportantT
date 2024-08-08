@@ -1,3 +1,41 @@
+[[Blood Relation/blood-relation.pdf|blood-relation]]
+
+link to watch 
+1. https://www.youtube.com/watch?v=SKQGxLRSuPA
+2. https://catking.in/blood-relation-basic-concept-for-cat-exam
+3. https://www.apti4all.com/cat-mba/topic-wise-preparation/lrdi/CAT/lr-blood-relation
+4. https://cracku.in/blog/blood-relations-questions-for-cat/
+5. https://collegedunia.com/news/e-242-cat-lr-blood-relations-quiz
+6. https://cetking.com/6-most-difficult-blood-relationship-questions/
+7. https://www.sanfoundry.com/logical-reasoning-questions-answers-blood-relation/
+8. https://prepinsta.com/blood-relation/questions/
+9. https://talentbattle.in/practice-logical-reasoning-questions/blood-relation
+10. https://www.hitbullseye.com/Blood-Relation-Questions.php
+11. https://www.geeksforgeeks.org/blood-relation-reasoning/
+12. https://www.sawaal.com/aptitude-reasoning/verbal-reasoning-mental-ability/blood-relations-questions-and-answers.html
+13. https://www.indiabix.com/verbal-reasoning/blood-relation-test/
+14. 
+![[Blood Relations NOTES.pdf]]
+
+![[LR Chapter 3- Blood Relation.pdf]]
+
+![[Blood Relations _ DPP-07.pdf]]
+
+![[Blood_Relations_08_Class_notes_GATE_Crash_Course_2023_Electronics.pdf]]
+
+![[blood-relation.pdf]]
+
+![[Blood relations @getstudyfeverbot.pdf]]
+
+![[Blood Relations.pdf]]
+
+![[Blood Relation.pdf]]
+
+![[CHRISTY'S CLASSES - blood relations.pdf]]
+
+![[Blood Relation (Topic-2).pdf]]
+
+
 ![[Pasted image 20240808123349.png]]
 
 
