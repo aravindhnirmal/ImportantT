@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "562a1f18c9ef9e85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apitude/Average.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd996d319d94cce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOURNAL/DAILY/2024-08-05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "875e87a71086e25c",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "fce49fa902429eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOURNAL/DAILY/DAILY JOURNAL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc2305a83f82816f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apitude/1. Apitude.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "581de0a09b83c42c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-08-08.md",
+                "file": "Apitude/Percentage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bloo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apitude/1. Apitude.md",
+                "file": "Apitude/Percentage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apitude/1. Apitude.md",
+                "file": "Apitude/Percentage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apitude/1. Apitude.md"
+                "file": "Apitude/Percentage.md"
               }
             }
           },
@@ -211,8 +153,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3b02110872883ffb",
+  "active": "fce49fa902429eef",
   "lastOpenFiles": [
+    "Pasted image 20240808150732.png",
+    "Pasted image 20240808150617.png",
+    "Pasted image 20240808150529.png",
+    "Pasted image 20240808150418.png",
+    "Pasted image 20240808150325.png",
+    "Pasted image 20240808150212.png",
+    "Pasted image 20240808150112.png",
+    "Pasted image 20240808145946.png",
+    "Pasted image 20240808145300.png",
+    "Pasted image 20240808144438.png",
+    "Pasted image 20240808144248.png",
+    "JOURNAL/DAILY/2024-08-08.md",
+    "JOURNAL/DAILY/DAILY JOURNAL.md",
+    "JOURNAL/DAILY/2024-08-05.md",
+    "08-08-2024.md",
+    "Apitude/Percentage.md",
+    "Apitude/Average.md",
     "Apitude/Surds and Indices.md",
     "Apitude/Stocks and Shares.md",
     "Apitude/Square Roots and Cube Roots.md",
@@ -225,30 +184,13 @@
     "Apitude/Chain Rule.md",
     "Apitude/Boats and Streams.md",
     "Apitude/Banker’s Discount.md",
-    "Apitude/Average.md",
     "Apitude/Area.md",
     "Logic/Blood Relation.md",
-    "Pasted image 20240808131904.png",
-    "Pasted image 20240808131559.png",
-    "Pasted image 20240808131416.png",
-    "Pasted image 20240808131236.png",
-    "Pasted image 20240808130946.png",
-    "Pasted image 20240808130909.png",
-    "Pasted image 20240808130803.png",
-    "Pasted image 20240808130623.png",
-    "Pasted image 20240808130519.png",
-    "Pasted image 20240808130415.png",
     "Logic/1 . Logic.md",
-    "2024-08-08.md",
     "AUG.md",
-    "JOURNAL/DAILY/2024-08-05.md",
     "JOURNAL/DAILY/2024-08-06.md",
-    "08-08-2024.md",
     "DM/8 .COMBINATORICS/COMBINATORS.md",
     "DM/DM.md",
-    "DM/7. GRAPH THEORY/GRAPH THEORY.md",
-    "JOURNAL/MONTHLY NOTES/A ON 08 AUG MONTH TO JAN.md",
-    "DM/6 . FUNCTION/FUNCTION.md",
     "14 ",
     "JOURNAL/DAILY",
     "JOURNAL/IMPORTANT",
