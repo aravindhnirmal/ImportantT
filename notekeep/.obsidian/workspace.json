@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "JOURNAL/DAILY/DAILY JOURNAL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a79c5a68a20b515",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JOURNAL/MONTHLY NOTES/AUG.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7033764db90dbc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Apitude/Percentage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,44 +178,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fce49fa902429eef",
+  "active": "7033764db90dbc9c",
   "lastOpenFiles": [
-    "Pasted image 20240808150732.png",
-    "Pasted image 20240808150617.png",
-    "Pasted image 20240808150529.png",
-    "Pasted image 20240808150418.png",
-    "Pasted image 20240808150325.png",
-    "Pasted image 20240808150212.png",
-    "Pasted image 20240808150112.png",
-    "Pasted image 20240808145946.png",
-    "Pasted image 20240808145300.png",
-    "Pasted image 20240808144438.png",
-    "Pasted image 20240808144248.png",
+    "Pasted image 20240808212156.png",
+    "2024-08-08.md",
+    "JOURNAL/MONTHLY NOTES/AUG.md",
+    "Apitude/Percentage.md",
+    "Apitude/Permutations and Combinations.md",
+    "Pasted image 20240808212052.png",
+    "Pasted image 20240808211915.png",
+    "Apitude/1. Apitude.md",
     "JOURNAL/DAILY/2024-08-08.md",
     "JOURNAL/DAILY/DAILY JOURNAL.md",
+    "JOURNAL/MONTHLY NOTES/A ON 08 AUG MONTH TO JAN.md",
+    "JOURNAL/MONTHLY NOTES/SEP.md",
+    "JOURNAL/MONTHLY NOTES/JAN.md",
+    "JOURNAL/MONTHLY NOTES/DEC.md",
+    "JOURNAL/IMPORTANT/Plannns in the date of 07 08 2024.md",
+    "Pasted image 20240808211741.png",
+    "Pasted image 20240808211402.png",
+    "Pasted image 20240808211022.png",
     "JOURNAL/DAILY/2024-08-05.md",
-    "08-08-2024.md",
-    "Apitude/Percentage.md",
-    "Apitude/Average.md",
-    "Apitude/Surds and Indices.md",
-    "Apitude/Stocks and Shares.md",
-    "Apitude/Square Roots and Cube Roots.md",
-    "Apitude/Simplification.md",
-    "Apitude/Simple Interest.md",
-    "Apitude/REVISION checklist FOR APITUDE.md",
-    "Apitude/Races and Games of Skill.md",
-    "Apitude/Profit and Loss.md",
-    "Apitude/Compound Interest.md",
-    "Apitude/Chain Rule.md",
-    "Apitude/Boats and Streams.md",
-    "Apitude/Banker’s Discount.md",
-    "Apitude/Area.md",
-    "Logic/Blood Relation.md",
-    "Logic/1 . Logic.md",
-    "AUG.md",
     "JOURNAL/DAILY/2024-08-06.md",
-    "DM/8 .COMBINATORICS/COMBINATORS.md",
-    "DM/DM.md",
+    "Pasted image 20240808210808.png",
+    "JOURNAL/DAILY/2024-08-07.md",
+    "Pasted image 20240808210547.png",
+    "Pasted image 20240808210319.png",
+    "Pasted image 20240808210044.png",
+    "Pasted image 20240808205731.png",
+    "Apitude/Average.md",
+    "Logic/1 . Logic.md",
+    "JOURNAL/WEEK NOTES/14- 08.md",
+    "Apitude/Logarithms.md",
+    "Apitude/Decimal Fractions.md",
+    "Apitude/Clocks.md",
+    "Apitude/Banker’s Discount.md",
+    "Untitled 4.md",
+    "08-08-2024.md",
+    "Apitude/Surds and Indices.md",
     "14 ",
     "JOURNAL/DAILY",
     "JOURNAL/IMPORTANT",

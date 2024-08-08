@@ -35,3 +35,46 @@
 
 
 ## on salary
+==Base value , remaining , balance ,== at below change rps from staring of %
+
+			![[Pasted image 20240808203656.png]]
+
+1. 
+	1. ![[Pasted image 20240808204057.png]]
+2. 
+	1. ![[Pasted image 20240808204132.png]]
+3. 
+	1. ![[Pasted image 20240808204709.png]]
+4. 
+	1. ![[Pasted image 20240808205531.png]]
+5. 
+	1. ![[Pasted image 20240808205731.png]]
+6. remaining is important  in the question , so it may be hard so base is rps 100 , ==**OUT OF**== ,==remaining== 
+	1. ![[Pasted image 20240808210044.png]]
+7. 
+	1. ![[Pasted image 20240808210319.png]]
+8. 
+	1. ![[Pasted image 20240808210547.png]]
+9. 
+	1. ![[Pasted image 20240808210808.png]]
+10. **==new format ==**
+	1.   ![[Pasted image 20240808211022.png]]
+
+
+
+
+## voters
+
+### important points
+1. won 
+2. by majority of x differences votes  , compared to others , meaning difference of win and losers
+
+		![[Pasted image 20240808211402.png]]
+
+1. ![[Pasted image 20240808211741.png]]
+2. 
+	1. ![[Pasted image 20240808211915.png]]
+3.  find the majority
+	1. ![[Pasted image 20240808212052.png]]
+4.  by the  
+	1. ![[Pasted image 20240808212156.png]]
