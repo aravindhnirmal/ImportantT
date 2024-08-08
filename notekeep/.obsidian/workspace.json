@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logic/Blood Relation.md",
+                "file": "Apitude/1. Apitude.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bloo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +122,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -142,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Blood Relation.md",
+                "file": "Apitude/1. Apitude.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logic/Blood Relation.md",
+                "file": "Apitude/1. Apitude.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic/Blood Relation.md"
+                "file": "Apitude/1. Apitude.md"
               }
             }
           },
@@ -210,8 +211,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc2305a83f82816f",
+  "active": "3b02110872883ffb",
   "lastOpenFiles": [
+    "Apitude/Surds and Indices.md",
+    "Apitude/Stocks and Shares.md",
+    "Apitude/Square Roots and Cube Roots.md",
+    "Apitude/Simplification.md",
+    "Apitude/Simple Interest.md",
+    "Apitude/REVISION checklist FOR APITUDE.md",
+    "Apitude/Races and Games of Skill.md",
+    "Apitude/Profit and Loss.md",
+    "Apitude/Compound Interest.md",
+    "Apitude/Chain Rule.md",
+    "Apitude/Boats and Streams.md",
+    "Apitude/Banker’s Discount.md",
+    "Apitude/Average.md",
+    "Apitude/Area.md",
+    "Logic/Blood Relation.md",
     "Pasted image 20240808131904.png",
     "Pasted image 20240808131559.png",
     "Pasted image 20240808131416.png",
@@ -222,7 +238,6 @@
     "Pasted image 20240808130623.png",
     "Pasted image 20240808130519.png",
     "Pasted image 20240808130415.png",
-    "Pasted image 20240808130258.png",
     "Logic/1 . Logic.md",
     "2024-08-08.md",
     "AUG.md",
@@ -234,20 +249,6 @@
     "DM/7. GRAPH THEORY/GRAPH THEORY.md",
     "JOURNAL/MONTHLY NOTES/A ON 08 AUG MONTH TO JAN.md",
     "DM/6 . FUNCTION/FUNCTION.md",
-    "JOURNAL/WEEK NOTES/14- 08.md",
-    "JOURNAL/MONTHLY NOTES/DEC.md",
-    "JOURNAL/MONTHLY NOTES/JAN.md",
-    "JOURNAL/IMPORTANT/Plannns in the date of 07 08 2024.md",
-    "JOURNAL/DAILY/2024-08-07.md",
-    "JOURNAL/DAILY/DAILY JOURNAL.md",
-    "Apitude/Average.md",
-    "JOURNAL/MONTHLY NOTES/NOV.md",
-    "JOURNAL/MONTHLY NOTES/OCT.md",
-    "JOURNAL/MONTHLY NOTES/SEP.md",
-    "JOURNAL/WEEK NOTES/21- 08.md",
-    "JOURNAL/WEEK NOTES/WEEK NOTES FROM 07 -08.md",
-    "JOURNAL/WEEK NOTES/28 - 08.md",
-    "14 /14-08.md",
     "14 ",
     "JOURNAL/DAILY",
     "JOURNAL/IMPORTANT",
