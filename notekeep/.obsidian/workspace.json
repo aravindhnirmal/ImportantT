@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/Permutations and Combinations.md",
+                "file": "Apitude/Surds and Indices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ffe6071371321a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apitude/Surds and Indices.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +50,30 @@
               "type": "markdown",
               "state": {
                 "file": "gre.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17b3c14cd15f256e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a222b301e98fa48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev advices.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +99,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -73,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pdf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apitude/Permutations and Combinations.md",
+                "file": "Apitude/Surds and Indices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apitude/Permutations and Combinations.md",
+                "file": "Apitude/Surds and Indices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apitude/Permutations and Combinations.md"
+                "file": "Apitude/Surds and Indices.md"
               }
             }
           }
@@ -177,42 +214,52 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "73193789bea3ebab",
+  "active": "f7ef1cedf6f3674d",
   "lastOpenFiles": [
-    "Pasted image 20240809161558.png",
-    "Apitude/Clocks.md",
-    "Apitude/Permutations and Combinations.md",
-    "Pasted image 20240809161258.png",
-    "Pasted image 20240809161107.png",
-    "Pasted image 20240809160847.png",
-    "Pasted image 20240809160717.png",
-    "Pasted image 20240809160601.png",
-    "Pasted image 20240809160545.png",
-    "Pasted image 20240809160241.png",
-    "Pasted image 20240809160225.png",
-    "Pasted image 20240809160213.png",
-    "Pasted image 20240809155525.png",
+    "pdf/Surds and Indices.pdf",
+    "Pasted image 20240809180851.png",
+    "Pasted image 20240809180735.png",
+    "Pasted image 20240809180651.png",
+    "Pasted image 20240809180551.png",
+    "Pasted image 20240809180445.png",
+    "Pasted image 20240809180402.png",
+    "Pasted image 20240809180218.png",
+    "Pasted image 20240809180121.png",
+    "Pasted image 20240809180019.png",
+    "Pasted image 20240809175913.png",
     "Apitude/1. Apitude.md",
+    "Apitude/Surds and Indices.md",
+    "Dev advices.md",
+    "Untitled.md",
+    "Apitude/Square Roots and Cube Roots.md",
+    "Blood Relation/Blood Relations NOTES.pdf",
+    "Apitude/Percentage.md",
+    "Apitude/REVISION checklist FOR APITUDE.md",
+    "Revision/weekly revision topics/on 12 08 sunday.md",
+    "JOURNAL/WEEK NOTES/14- 08.md",
+    "Revision/weekly revision topics",
+    "Revision",
+    "Apitude/1. Number System/Consective Numbers.md",
+    "Apitude/1. Number System/1 . Number System.md",
+    "Apitude/H.C.F. and L.C.M. of Numbers.md",
+    "Magic words.md",
+    "Percentage.pdf",
+    "2024-08-09.md",
+    "Apitude/Permutations and Combinations.md",
+    "Apitude/Clocks.md",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "randomness.md",
-    "Untitled.md",
     "clg list.md",
     "gre.md",
-    "2024-08-09.md",
     "Logic/Blood Relation.md",
     "Blood Relation/blood-relation.pdf",
-    "Blood Relation/Blood Relations NOTES.pdf",
     "Blood Relation/LR Chapter 3- Blood Relation.pdf",
     "Blood Relation/Blood Relations _ DPP-07.pdf",
     "Blood Relation/Blood_Relations_08_Class_notes_GATE_Crash_Course_2023_Electronics.pdf",
     "Blood Relation/Blood relations @getstudyfeverbot.pdf",
     "Blood Relation/Blood Relations.pdf",
-    "Blood Relation/Blood Relation.pdf",
-    "Blood Relation/CHRISTY'S CLASSES - blood relations.pdf",
-    "Blood Relation/Blood Relation (Topic-2).pdf",
-    "Apitude/Percentage.md",
     "2024-08-08.md"
   ]
 }
