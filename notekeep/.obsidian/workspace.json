@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6746b0504286f06b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-08-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73193789bea3ebab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apitude/Surds and Indices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ffe6071371321a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apitude/Surds and Indices.md",
+                "file": "Apitude/Simple Interest.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-08-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a7c3cc4f31e54df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gre toefl.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apitude/Surds and Indices.md",
+                "file": "2024-08-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Apitude/Surds and Indices.md",
+                "file": "2024-08-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Apitude/Surds and Indices.md"
+                "file": "2024-08-09.md"
               }
             }
           }
@@ -214,8 +201,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f7ef1cedf6f3674d",
+  "active": "17b3c14cd15f256e",
   "lastOpenFiles": [
+    "Untitled.md",
+    "gre toefl.md",
+    "gre.md",
+    "Apitude/Simple Interest.md",
+    "Apitude/Average.md",
+    "Apitude/1. Number System/1 . Number System.md",
+    "Apitude/Surds and Indices.md",
+    "2024-08-09.md",
     "pdf/Surds and Indices.pdf",
     "Pasted image 20240809180851.png",
     "Pasted image 20240809180735.png",
@@ -228,9 +223,7 @@
     "Pasted image 20240809180019.png",
     "Pasted image 20240809175913.png",
     "Apitude/1. Apitude.md",
-    "Apitude/Surds and Indices.md",
     "Dev advices.md",
-    "Untitled.md",
     "Apitude/Square Roots and Cube Roots.md",
     "Blood Relation/Blood Relations NOTES.pdf",
     "Apitude/Percentage.md",
@@ -240,11 +233,9 @@
     "Revision/weekly revision topics",
     "Revision",
     "Apitude/1. Number System/Consective Numbers.md",
-    "Apitude/1. Number System/1 . Number System.md",
     "Apitude/H.C.F. and L.C.M. of Numbers.md",
     "Magic words.md",
     "Percentage.pdf",
-    "2024-08-09.md",
     "Apitude/Permutations and Combinations.md",
     "Apitude/Clocks.md",
     "Untitled 3.md",
@@ -252,14 +243,11 @@
     "Untitled 1.md",
     "randomness.md",
     "clg list.md",
-    "gre.md",
     "Logic/Blood Relation.md",
     "Blood Relation/blood-relation.pdf",
     "Blood Relation/LR Chapter 3- Blood Relation.pdf",
     "Blood Relation/Blood Relations _ DPP-07.pdf",
     "Blood Relation/Blood_Relations_08_Class_notes_GATE_Crash_Course_2023_Electronics.pdf",
-    "Blood Relation/Blood relations @getstudyfeverbot.pdf",
-    "Blood Relation/Blood Relations.pdf",
-    "2024-08-08.md"
+    "Blood Relation/Blood relations @getstudyfeverbot.pdf"
   ]
 }
