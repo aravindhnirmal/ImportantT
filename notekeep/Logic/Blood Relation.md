@@ -15,25 +15,25 @@ link to watch
 12. https://www.sawaal.com/aptitude-reasoning/verbal-reasoning-mental-ability/blood-relations-questions-and-answers.html
 13. https://www.indiabix.com/verbal-reasoning/blood-relation-test/
 14. 
-![[Blood Relations NOTES.pdf]]
+![[Blood Relations NOTES 1.pdf]]
 
-![[LR Chapter 3- Blood Relation.pdf]]
+![[LR Chapter 3- Blood Relation 2.pdf]]
 
-![[Blood Relations _ DPP-07.pdf]]
+![[Blood Relations _ DPP-07 1.pdf]]
 
-![[Blood_Relations_08_Class_notes_GATE_Crash_Course_2023_Electronics.pdf]]
+![[Blood_Relations_08_Class_notes_GATE_Crash_Course_2023_Electronics 1.pdf]]
 
-![[blood-relation.pdf]]
+![[blood-relation 1.pdf]]
 
-![[Blood relations @getstudyfeverbot.pdf]]
+![[Blood relations @getstudyfeverbot 1.pdf]]
 
-![[Blood Relations.pdf]]
+![[Blood Relations 1.pdf]]
 
-![[Blood Relation.pdf]]
+![[Blood Relation 1.pdf]]
 
-![[CHRISTY'S CLASSES - blood relations.pdf]]
+![[Apitude/CHRISTY'S CLASSES - blood relations.pdf]]
 
-![[Blood Relation (Topic-2).pdf]]
+![[Blood Relation (Topic-2) 1.pdf]]
 
 
 ![[Pasted image 20240808123349.png]]
