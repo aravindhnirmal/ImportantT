@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engin. Maths/Calculus/Calculus.md",
+                "file": "2024-08-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c92140f7fc85b082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grok book recommendation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -159,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engin. Maths/Calculus/Calculus.md",
+                "file": "Grok book recommendation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engin. Maths/Calculus/Calculus.md",
+                "file": "Grok book recommendation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engin. Maths/Calculus/Calculus.md"
+                "file": "Grok book recommendation.md"
               }
             }
           }
@@ -226,9 +238,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f9b734fa9f8f89d8",
+  "active": "c92140f7fc85b082",
   "lastOpenFiles": [
     "2024-08-10.md",
+    "Grok book recommendation.md",
+    "Engin. Maths/Calculus/Calculus.md",
     "Apitude/Simple Interest.md",
     "Dev advices.md",
     "gre toefl.md",
@@ -271,8 +285,6 @@
     "Pasted image 20240809180218.png",
     "Pasted image 20240809180121.png",
     "Pasted image 20240809180019.png",
-    "Pasted image 20240809175913.png",
-    "Apitude/Square Roots and Cube Roots.md",
-    "Apitude/REVISION checklist FOR APITUDE.md"
+    "Pasted image 20240809175913.png"
   ]
 }
