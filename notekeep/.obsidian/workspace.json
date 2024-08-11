@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grok book recommendation.md",
+                "file": "2024-08-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cal",
+                "query": "2024",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grok book recommendation.md",
+                "file": "2024-08-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grok book recommendation.md",
+                "file": "2024-08-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grok book recommendation.md"
+                "file": "2024-08-11.md"
               }
             }
           }
@@ -241,6 +241,7 @@
   "active": "c92140f7fc85b082",
   "lastOpenFiles": [
     "2024-08-10.md",
+    "2024-08-11.md",
     "Grok book recommendation.md",
     "Engin. Maths/Calculus/Calculus.md",
     "Apitude/Simple Interest.md",
@@ -275,7 +276,6 @@
     "2024-08-08.md",
     "Apitude/Percentage.md",
     "Apitude/Average.md",
-    "Apitude/1. Number System/1 . Number System.md",
     "Pasted image 20240809180851.png",
     "Pasted image 20240809180735.png",
     "Pasted image 20240809180651.png",
